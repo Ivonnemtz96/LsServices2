@@ -22,8 +22,8 @@
     <div class="container mt-5">
         <div class="row">
             <div class="wpo-section-title">
-                <span>What we can do?</span>
-                <h2>We offer a wide variety of solutions for your needs</h2>
+                <!-- <span>What we can do?</span> -->
+                <h2>Book your next experience</h2>
                 <div class="section-title-img">
                     <img src="assets/images/section-title.png" alt="">
                 </div>
@@ -75,7 +75,7 @@
                     <div class="wpo-pricing-item">
                         <div class="wpo-pricing-top">
                             <div class="wpo-pricing-img">
-                                <img src="assets/images/pricing/3.png" alt="">
+                                <img src="assets/images/pricing/3.png?=1" alt="">
                             </div>
                             <div class="wpo-pricing-text">
                                 <h4>Delivery</h4>
@@ -94,7 +94,7 @@
                     <div class="wpo-pricing-item">
                         <div class="wpo-pricing-top">
                             <div class="wpo-pricing-img">
-                                <img src="assets/images/pricing/4.png" alt="">
+                                <img src="assets/images/pricing/4.png?=1" alt="">
                             </div>
                             <div class="wpo-pricing-text">
                                 <h4>Private Residences</h4>
@@ -103,8 +103,8 @@
                         </div>
                         <div class="wpo-pricing-bottom">
                             <div class="wpo-pricing-bottom-text">
-                                We take care of yor needs directly where you are
-                                <br><br>
+                                We take care of your needs and dreams directly where you are
+                                <br>
                                 <a href="contact.php">Contact Us</a>
                             </div>
                         </div>

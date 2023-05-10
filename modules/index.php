@@ -271,7 +271,7 @@
                 <div class="wpo-service-active owl-carousel">
                     <div class="wpo-service-item">
                         <div class="wpo-service-img">
-                            <img src="assets/images/service/img-1.jpg" alt="">
+                            <img src="assets/images/service/img-1.jpg?=1" alt="">
 
                             <div class="wpo-service-text">
                                 <div class="s-icon">
@@ -295,7 +295,7 @@
                     </div>
                     <div class="wpo-service-item">
                         <div class="wpo-service-img">
-                            <img src="assets/images/service/img-3.jpg" alt="">
+                            <img src="assets/images/service/img-3.jpg?=1" alt="">
 
                             <div class="wpo-service-text">
                                 <div class="s-icon">
