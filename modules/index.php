@@ -112,12 +112,13 @@
                                 <h2>LS Events</h2>
                                 <h6>Creating great experiences since 2000</h6>
                                 <p>
-                                    LS Events provides you with a tailor-made catering service in Cabo for private events, weddings, meetings, or personal holidays, which will delight and inspire you and your guests. We focus on quality and taste. We bring our experience to your home or event for you to enjoy the best quality dishes, drinks and service so you can relax and enjoy. Contact us to find out what we can offer you.
+                                    LS Events provides you with a tailor-made catering service in Cabo for private
+                                    events, meetings, or personal holidays, which will delight and inspire you
+                                    and your guests. We focus on quality and taste. We bring our experience to your home
+                                    or event for you to enjoy the best quality Mexican dishes , drinks and services so you can
+                                    relax and enjoy. Contact us to find out what we can offer you.
                                 </p>
-                                <p hidden>
-                                    Content here, content here', making it look like readable English. Many desktop
-                                    publishing packages and web page editors now use Lorem Ipsum as their default
-                                    model text.</p>
+                                
                                 <a class="theme-btn-s3" href="contact.php">Contact</a>
                             </div>
                         </div>
@@ -152,7 +153,8 @@
                                     <img src="assets/images/couple/2.jpg" alt="">
                                 </div>
                                 <h3>Daniel Oliver</h3>
-                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis give you com of system. </p>
+                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
+                                    lacus vel facilisis give you com of system. </p>
                                 <div class="social">
                                     <ul>
                                         <li><a href="#"><i class="ti-facebook"></i></a></li>
@@ -170,7 +172,8 @@
                                     <img src="assets/images/couple/3.jpg" alt="">
                                 </div>
                                 <h3>Sarah Margrate</h3>
-                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis give you com of system. </p>
+                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
+                                    lacus vel facilisis give you com of system. </p>
                                 <div class="social">
                                     <ul>
                                         <li><a href="#"><i class="ti-facebook"></i></a></li>
@@ -186,16 +189,27 @@
         </section>
         <!-- end couple-section -->
         <!-- start wpo-video-section -->
-        <section class="wpo-video-section-s2">
+        <section hidden class="wpo-video-section-s2">
             <h2 class="hidden">LS Services</h2>
             <div class="wpo-video-item">
                 <div class="wpo-video-img">
-                    <img src="assets/images/cta2.jpg" alt="">
-                    <a href="https://www.youtube.com/embed/teLhLLlhfzc" class="video-btn" data-type="iframe"><i class="fi flaticon-play"></i></a>
+                    <img src="assets/images/cta2.jpg?=1" alt="">
+                    <a href="https://www.youtube.com/embed/teLhLLlhfzc" class="video-btn" data-type="iframe"><i
+                            class="fi flaticon-play"></i></a>
                 </div>
             </div>
         </section>
         <!-- end wpo-video-section-->
+
+        <div class="wpo-cta-section-s3" style="margin-bottom: 10rem; background-image: url(assets/images/cta2.jpg?=1);">
+            <div class="conatiner-fluid">
+                <div class="wpo-cta-item">
+                    <h2>Contact us now to book.</h2>
+                    <!-- <p>Nov 22,2021, Wedding Unity Center, road 525 USA</p> -->
+                    <a class="theme-btn-s2" target="_blank" href="https://wa.me/+526246884872?text=Hello!%20I%20Would%20like%20to%20schedule%20a%20date%20and%20time.">WhatsApp</a>
+                </div>
+            </div>
+        </div>
 
         <!-- start of wpo-about-section -->
         <section class="wpo-about-section section-padding">
@@ -211,7 +225,11 @@
                             <div class="wpo-about-icon-content">
                                 <h2>About</h2>
                                 <p>
-                                    We are a boutique catering company which provides refined Mexican cuisine and great service for the most select homes and places in Los Cabos. We create delicious dishes using only the freshest ingredients, highlighting the flavor and a unique style. Let's talk about your next event. We are ready to meet all your needs, while making your life easier and giving you a touch of flavor.
+                                    We are a boutique catering company which provides refined Mexican cuisine and great
+                                    service for the most select homes and places in Los Cabos. We create delicious
+                                    dishes using only the freshest ingredients, highlighting the flavor and a unique
+                                    style. Let's talk about your next event. We are ready to meet all your needs, while
+                                    making your life easier and giving you a touch of flavor.
                                 </p>
                                 <p hidden>
                                     Content here, content here', making it look like readable English. Many desktop
@@ -328,7 +346,9 @@
                                     <div class="story-text right-align-text">
                                         <h3>First time we meet</h3>
                                         <span class="date">Nov 12,2021</span>
-                                        <p>I must explain to you how all this mistaken idea of denouing pleasure and praising pain was born and I will give you com acount of system,the actual teach</p>
+                                        <p>I must explain to you how all this mistaken idea of denouing pleasure and
+                                            praising pain was born and I will give you com acount of system,the actual
+                                            teach</p>
                                     </div>
                                 </div>
                                 <div class="col col-lg-6 col-12">
@@ -356,7 +376,9 @@
                                     <div class="story-text">
                                         <h3>First Date</h3>
                                         <span class="date">Dec 25,2021</span>
-                                        <p>I must explain to you how all this mistaken idea of denouing pleasure and praising pain was born and I will give you com acount of system,the actual teach</p>
+                                        <p>I must explain to you how all this mistaken idea of denouing pleasure and
+                                            praising pain was born and I will give you com acount of system,the actual
+                                            teach</p>
                                     </div>
                                 </div>
                             </div>
@@ -368,7 +390,9 @@
                                     <div class="story-text right-align-text">
                                         <h3>Marriage Proposal</h3>
                                         <span class="date">Nov 12,2021</span>
-                                        <p>I must explain to you how all this mistaken idea of denouing pleasure and praising pain was born and I will give you com acount of system,the actual teach</p>
+                                        <p>I must explain to you how all this mistaken idea of denouing pleasure and
+                                            praising pain was born and I will give you com acount of system,the actual
+                                            teach</p>
                                     </div>
                                 </div>
                                 <div class="col col-lg-6 col-12">
@@ -396,7 +420,9 @@
                                     <div class="story-text">
                                         <h3>Our Engagement</h3>
                                         <span class="date">Dec 25,2021</span>
-                                        <p>I must explain to you how all this mistaken idea of denouing pleasure and praising pain was born and I will give you com acount of system,the actual teach</p>
+                                        <p>I must explain to you how all this mistaken idea of denouing pleasure and
+                                            praising pain was born and I will give you com acount of system,the actual
+                                            teach</p>
                                     </div>
                                 </div>
                             </div>
@@ -434,7 +460,8 @@
                             <div class="portfolio-grids gallery-container clearfix">
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="assets/images/portfolio/7.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                        <a href="assets/images/portfolio/7.jpg" class="fancybox"
+                                            data-fancybox-group="gall-1">
                                             <img src="assets/images/portfolio/7.jpg" alt class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
@@ -444,7 +471,8 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="assets/images/portfolio/8.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                        <a href="assets/images/portfolio/8.jpg" class="fancybox"
+                                            data-fancybox-group="gall-1">
                                             <img src="assets/images/portfolio/8.jpg" alt class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
@@ -454,7 +482,8 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="assets/images/portfolio/9.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                        <a href="assets/images/portfolio/9.jpg" class="fancybox"
+                                            data-fancybox-group="gall-1">
                                             <img src="assets/images/portfolio/9.jpg" alt class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
@@ -464,7 +493,8 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="assets/images/portfolio/10.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                        <a href="assets/images/portfolio/10.jpg" class="fancybox"
+                                            data-fancybox-group="gall-1">
                                             <img src="assets/images/portfolio/10.jpg" alt class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
@@ -474,7 +504,8 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="assets/images/portfolio/11.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                        <a href="assets/images/portfolio/11.jpg" class="fancybox"
+                                            data-fancybox-group="gall-1">
                                             <img src="assets/images/portfolio/11.jpg" alt class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
@@ -484,7 +515,8 @@
                                 </div>
                                 <div class="grid">
                                     <div class="img-holder">
-                                        <a href="assets/images/portfolio/12.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                        <a href="assets/images/portfolio/12.jpg" class="fancybox"
+                                            data-fancybox-group="gall-1">
                                             <img src="assets/images/portfolio/12.jpg" alt class="img img-responsive">
                                             <div class="hover-content">
                                                 <i class="ti-plus"></i>
@@ -525,43 +557,14 @@
                             <div>
                                 <input type="text" class="form-control" name="tel" id="tel" placeholder="Telephone">
                             </div>
-                            <!-- <div>
-                                <select name="service" class="form-control">
-                                    <option disabled="disabled" selected>Services</option>
-                                    <option>Photography</option>
-                                    <option>The Rehearsal Dinner</option>
-                                    <option>The Afterparty</option>
-                                    <option>Videographers</option>
-                                    <option>Perfect Cake</option>
-                                    <option>All Of The Above</option>
-                                </select>
+                            <div>
+                                <input type="text" class="form-control" name="subject" id="subject"
+                                    placeholder="Subject">
                             </div>
                             <div>
-                                <select name="guest" class="form-control">
-                                    <option disabled="disabled" selected>Number Of Guests</option>
-                                    <option>01</option>
-                                    <option>02</option>
-                                    <option>03</option>
-                                    <option>04</option>
-                                    <option>05</option>
-                                </select>
+                                <textarea class="form-control" name="msj" id="msj"
+                                    placeholder="Write your message here..."></textarea>
                             </div>
-                            <div>
-                                <select name="meal" class="form-control last">
-                                    <option disabled="disabled" selected>Meal Preferences</option>
-                                    <option>Chicken Soup</option>
-                                    <option>Motton Kabab</option>
-                                    <option>Chicken BBQ</option>
-                                    <option>Mix Salad</option>
-                                    <option>Beef Ribs </option>
-                                </select>
-                            </div> -->
-                            <div>
-                                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject">
-                            </div>
-                            <div>
-                                    <textarea class="form-control" name="msj"  id="msj" placeholder="Write your message here..."></textarea>
-                                </div>
                             <div class="submit-area">
                                 <button type="submit" class="theme-btn-s3">Send</button>
                                 <div id="c-loader">
@@ -628,7 +631,9 @@
                                         <li>Estern Comunity Centure, 525 Road 123, USA</li>
                                         <li>Phone : +12345678910</li>
 
-                                        <li> <a class="popup-gmaps" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25211.21212385712!2d144.95275648773628!3d-37.82748510398018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0x5045675218ce7e0!2zTWVsYm91cm5lIFZJQyAzMDA0LCDgpoXgprjgp43gpp_gp43gprDgp4fgprLgpr_gpq_gprzgpr4!5e0!3m2!1sbn!2sbd!4v1503742051881">See Location</a></li>
+                                        <li> <a class="popup-gmaps"
+                                                href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25211.21212385712!2d144.95275648773628!3d-37.82748510398018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0x5045675218ce7e0!2zTWVsYm91cm5lIFZJQyAzMDA0LCDgpoXgprjgp43gpp_gp43gprDgp4fgprLgpr_gpq_gprzgpr4!5e0!3m2!1sbn!2sbd!4v1503742051881">See
+                                                Location</a></li>
                                     </ul>
                                 </div>
                                 <div class="event-shape-1">
@@ -649,7 +654,9 @@
                                         <li>Estern Comunity Centure, 525 Road 123, USA</li>
                                         <li>Phone : +12345678910</li>
 
-                                        <li> <a class="popup-gmaps" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25211.21212385712!2d144.95275648773628!3d-37.82748510398018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0x5045675218ce7e0!2zTWVsYm91cm5lIFZJQyAzMDA0LCDgpoXgprjgp43gpp_gp43gprDgp4fgprLgpr_gpq_gprzgpr4!5e0!3m2!1sbn!2sbd!4v1503742051881">See Location</a></li>
+                                        <li> <a class="popup-gmaps"
+                                                href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25211.21212385712!2d144.95275648773628!3d-37.82748510398018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0x5045675218ce7e0!2zTWVsYm91cm5lIFZJQyAzMDA0LCDgpoXgprjgp43gpp_gp43gprDgp4fgprLgpr_gpq_gprzgpr4!5e0!3m2!1sbn!2sbd!4v1503742051881">See
+                                                Location</a></li>
                                     </ul>
                                 </div>
                                 <div class="event-shape-1">
@@ -670,7 +677,9 @@
                                         <li>Estern Comunity Centure, 525 Road 123, USA</li>
                                         <li>Phone : +12345678910</li>
 
-                                        <li> <a class="popup-gmaps" href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25211.21212385712!2d144.95275648773628!3d-37.82748510398018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0x5045675218ce7e0!2zTWVsYm91cm5lIFZJQyAzMDA0LCDgpoXgprjgp43gpp_gp43gprDgp4fgprLgpr_gpq_gprzgpr4!5e0!3m2!1sbn!2sbd!4v1503742051881">See Location</a></li>
+                                        <li> <a class="popup-gmaps"
+                                                href="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d25211.21212385712!2d144.95275648773628!3d-37.82748510398018!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6ad642af0f11fd81%3A0x5045675218ce7e0!2zTWVsYm91cm5lIFZJQyAzMDA0LCDgpoXgprjgp43gpp_gp43gprDgp4fgprLgpr_gpq_gprzgpr4!5e0!3m2!1sbn!2sbd!4v1503742051881">See
+                                                Location</a></li>
                                     </ul>
                                 </div>
                                 <div class="event-shape-1">
