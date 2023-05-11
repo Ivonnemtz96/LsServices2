@@ -21,7 +21,7 @@
           <div class="row">
               <div class="wpo-section-title-s2">
                   <div class="section-title-simg">
-                      <img src="assets/images/section-title2.png" alt="">
+                      <img src="assets/images/section-title2.png?=1" alt="">
                   </div>
                   <h2>Sweet Moments</h2>
                   <div class="section-title-img">

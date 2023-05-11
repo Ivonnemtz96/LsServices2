@@ -25,7 +25,7 @@
                 <!-- <span>What we can do?</span> -->
                 <h2>Book your next experience</h2>
                 <div class="section-title-img">
-                    <img src="assets/images/section-title.png" alt="">
+                    <img src="assets/images/section-title.png?=1" alt="">
                 </div>
             </div>
         </div>

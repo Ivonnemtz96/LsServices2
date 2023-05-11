@@ -97,7 +97,7 @@
                                 </div>
                             </div>
                             <div class="ab-shape">
-                                <img src="assets/images/about/shape.png?=1" alt="">
+                                <img src="assets/images/about/shape.png?=1" style="opacity: 60%;" alt="">
                             </div>
                         </div>
                     </div>
@@ -118,7 +118,6 @@
                                     or event for you to enjoy the best quality Mexican dishes , drinks and services so you can
                                     relax and enjoy. Contact us to find out what we can offer you.
                                 </p>
-                                
                                 <a class="theme-btn-s3" href="contact.php">Contact</a>
                             </div>
                         </div>
@@ -583,7 +582,7 @@
                         <img src="assets/images/contact/1.png" alt="">
                     </div> -->
                     <div class="vector-2">
-                        <img src="assets/images/contact/2.png" alt="">
+                        <img src="assets/images/contact/2.png?=1" alt="">
                     </div>
                 </div>
             </div>
