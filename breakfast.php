@@ -12,6 +12,7 @@ include('includes/head.php');
         include('includes/header.php');
         include('modules/breakfast.php');
         include('includes/footer.php');
+        include('includes/whats.php');
         include('includes/scripts.php');
         ?>
     </div>

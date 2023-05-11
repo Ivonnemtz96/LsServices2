@@ -32,7 +32,7 @@
                                         </div>
                                         <div class="office-info-text">
                                             <h2>Address</h2>
-                                            <p>Los Cabos, Mexico.</p>
+                                            <p>San José del Cabo.</p>
                                         </div>
                                     </div>
                                 </div> 

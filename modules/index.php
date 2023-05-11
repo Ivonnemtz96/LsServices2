@@ -97,7 +97,7 @@
                                 </div>
                             </div>
                             <div class="ab-shape">
-                                <img src="assets/images/about/shape.png" alt="">
+                                <img src="assets/images/about/shape.png?=1" alt="">
                             </div>
                         </div>
                     </div>
@@ -105,7 +105,7 @@
                         <div class="wpo-about-text">
                             <div class="wpo-about-icon">
                                 <div class="icon">
-                                    <img src="assets/images/about/thumb.png" alt="">
+                                    <img src="assets/images/about/thumb.png?=1" alt="">
                                 </div>
                             </div>
                             <div class="wpo-about-icon-content">
@@ -165,7 +165,7 @@
                             </div>
                             <div class="middle-couple-pic">
                                 <img src="assets/images/couple/1.jpg" alt="">
-                                <div class="frame-img"><img src="assets/images/couple/shape.png" alt=""></div>
+                                <div class="frame-img"><img src="assets/images/couple/shape.png?=1" alt=""></div>
                             </div>
                             <div class="text-grid groom">
                                 <div class="couple-img">
@@ -219,7 +219,7 @@
                         <div class="wpo-about-text">
                             <div class="wpo-about-icon">
                                 <div class="icon">
-                                    <img src="assets/images/about/thumb.png" alt="">
+                                    <img src="assets/images/about/thumb.png?=1" alt="">
                                 </div>
                             </div>
                             <div class="wpo-about-icon-content">
@@ -540,7 +540,7 @@
                     <div class="wpo-contact-form-area">
                         <div class="wpo-section-title-s2">
                             <div class="section-title-simg">
-                                <img src="assets/images/section-title2.png" alt="">
+                                <img src="assets/images/section-title2.png?=1" alt="">
                             </div>
                             <h2>CONTACT US</h2>
                             <div class="section-title-img">
