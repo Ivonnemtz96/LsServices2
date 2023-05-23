@@ -3,7 +3,7 @@
             <div class="swiper-container">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-4.jpg">
+                        <div class="slide-inner slide-bg-image" data-background="assets/images/slider/slide-4.jpg?=1">
                             <!-- <div class="gradient-overlay"></div> -->
                             <div class="container-fluid">
                                 <div class="slide-content">
@@ -294,7 +294,7 @@
                     </div>
                     <div class="wpo-service-item">
                         <div class="wpo-service-img">
-                            <img src="assets/images/service/img-3.jpg?=1" alt="">
+                            <img src="assets/images/service/img-3.jpg?=2" alt="">
 
                             <div class="wpo-service-text">
                                 <div class="s-icon">

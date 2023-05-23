@@ -75,7 +75,7 @@
                     <div class="wpo-pricing-item">
                         <div class="wpo-pricing-top">
                             <div class="wpo-pricing-img">
-                                <img src="assets/images/pricing/3.png?=1" alt="">
+                                <img src="assets/images/pricing/3.jpg?=1" alt="">
                             </div>
                             <div class="wpo-pricing-text">
                                 <h4>Delivery</h4>
