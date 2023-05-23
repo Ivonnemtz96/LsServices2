@@ -31,7 +31,7 @@
         </div>
         <div class="wpo-pricing-wrap">
             <div class="row">
-                <div class="col col-lg-3 col-md-6 col-12">
+                <div class="col col-lg-4 col-md-6 col-12">
                     <div class="wpo-pricing-item">
                         <div class="wpo-pricing-top">
                             <div class="wpo-pricing-img">
@@ -51,7 +51,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col col-lg-3 col-md-6 col-12">
+                <div class="col col-lg-4 col-md-6 col-12">
                     <div class="wpo-pricing-item">
                         <div class="wpo-pricing-top">
                             <div class="wpo-pricing-img">
@@ -71,7 +71,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col col-lg-3 col-md-6 col-12">
+                <div class="col col-lg-4 col-md-6 col-12">
                     <div class="wpo-pricing-item">
                         <div class="wpo-pricing-top">
                             <div class="wpo-pricing-img">
@@ -90,7 +90,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col col-lg-3 col-md-6 col-12">
+                <div class="col col-lg-4 col-md-6 col-12">
                     <div class="wpo-pricing-item">
                         <div class="wpo-pricing-top">
                             <div class="wpo-pricing-img">
@@ -104,6 +104,26 @@
                         <div class="wpo-pricing-bottom">
                             <div class="wpo-pricing-bottom-text">
                                 We take care of your needs and dreams directly where you are
+                                <br>
+                                <a href="contact.php">Contact Us</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col col-lg-4 col-md-6 col-12">
+                    <div class="wpo-pricing-item">
+                        <div class="wpo-pricing-top">
+                            <div class="wpo-pricing-img">
+                                <img src="assets/images/pricing/5.jpg?=1" alt="">
+                            </div>
+                            <div class="wpo-pricing-text">
+                                <h4>Cooking Class</h4>
+                                <!-- <h2>$880<span>/Monthly</span></h2> -->
+                            </div>
+                        </div>
+                        <div class="wpo-pricing-bottom">
+                            <div class="wpo-pricing-bottom-text">
+                                Learn how to make delicius mexican recipes.
                                 <br>
                                 <a href="contact.php">Contact Us</a>
                             </div>

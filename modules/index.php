@@ -105,7 +105,7 @@
                         <div class="wpo-about-text">
                             <div class="wpo-about-icon">
                                 <div class="icon">
-                                    <img src="assets/images/about/thumb.png?=1" alt="">
+                                    <img src="assets/images/section-title2.png?=1" alt="">
                                 </div>
                             </div>
                             <div class="wpo-about-icon-content">
@@ -218,7 +218,7 @@
                         <div class="wpo-about-text">
                             <div class="wpo-about-icon">
                                 <div class="icon">
-                                    <img src="assets/images/about/thumb.png?=1" alt="">
+                                    <img src="assets/images/section-title2.png?=1" alt="">
                                 </div>
                             </div>
                             <div class="wpo-about-icon-content">
@@ -242,7 +242,7 @@
                         <div class="wpo-about-wrap">
                             <div class="wpo-about-item">
                                 <div class="wpo-about-img">
-                                    <img src="assets/images/about/1.png" alt="">
+                                    <img src="assets/images/about/2.jpg" alt="">
                                 </div>
                             </div>
                             <div class="about-single-item">
@@ -304,6 +304,23 @@
                             </div>
                         </div>
                     </div>
+
+
+                    <div class="wpo-service-item">
+                        <div class="wpo-service-img">
+                            <img src="assets/images/service/1.jpg?=1" alt="">
+
+                            <div class="wpo-service-text">
+                                <div class="s-icon">
+                                    <i class="fi flaticon-edit"></i>
+                                </div>
+                                <a>Cooking Class</a>
+                            </div>
+                        </div>
+                    </div>
+
+
+
                     <div class="wpo-service-item">
                         <div class="wpo-service-img">
                             <img src="assets/images/service/img-4.jpg" alt="">

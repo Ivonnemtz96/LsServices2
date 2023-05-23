@@ -43,6 +43,18 @@
                                   </a>
                               </div>
                           </div>
+
+                          <div class="grid">
+                              <div class="img-holder">
+                                  <a href="assets/images/portfolio/19.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                      <img src="assets/images/portfolio/19.jpg" alt class="img img-responsive">
+                                      <div class="hover-content">
+                                          <i class="ti-plus"></i>
+                                      </div>
+                                  </a>
+                              </div>
+                          </div>
+
                           <div class="grid">
                               <div class="img-holder">
                                   <a href="assets/images/portfolio/8.jpg" class="fancybox" data-fancybox-group="gall-1">
@@ -93,6 +105,84 @@
                                   </a>
                               </div>
                           </div>
+
+                          <div class="grid">
+                              <div class="img-holder">
+                                  <a href="assets/images/portfolio/18.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                      <img src="assets/images/portfolio/18.jpg" alt class="img img-responsive">
+                                      <div class="hover-content">
+                                          <i class="ti-plus"></i>
+                                      </div>
+                                  </a>
+                              </div>
+                          </div>
+
+                          <div class="grid">
+                              <div class="img-holder">
+                                  <a href="assets/images/portfolio/20.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                      <img src="assets/images/portfolio/20.jpg" alt class="img img-responsive">
+                                      <div class="hover-content">
+                                          <i class="ti-plus"></i>
+                                      </div>
+                                  </a>
+                              </div>
+                          </div>
+
+                          <div class="grid">
+                              <div class="img-holder">
+                                  <a href="assets/images/portfolio/21.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                      <img src="assets/images/portfolio/21.jpg" alt class="img img-responsive">
+                                      <div class="hover-content">
+                                          <i class="ti-plus"></i>
+                                      </div>
+                                  </a>
+                              </div>
+                          </div>
+
+                          <div class="grid">
+                              <div class="img-holder">
+                                  <a href="assets/images/portfolio/22.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                      <img src="assets/images/portfolio/22.jpg" alt class="img img-responsive">
+                                      <div class="hover-content">
+                                          <i class="ti-plus"></i>
+                                      </div>
+                                  </a>
+                              </div>
+                          </div>
+
+                          <div class="grid">
+                              <div class="img-holder">
+                                  <a href="assets/images/portfolio/23.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                      <img src="assets/images/portfolio/23.jpg" alt class="img img-responsive">
+                                      <div class="hover-content">
+                                          <i class="ti-plus"></i>
+                                      </div>
+                                  </a>
+                              </div>
+                          </div>
+
+                          <div class="grid">
+                              <div class="img-holder">
+                                  <a href="assets/images/portfolio/24.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                      <img src="assets/images/portfolio/24.jpg" alt class="img img-responsive">
+                                      <div class="hover-content">
+                                          <i class="ti-plus"></i>
+                                      </div>
+                                  </a>
+                              </div>
+                          </div>
+
+                          <div class="grid">
+                              <div class="img-holder">
+                                  <a href="assets/images/portfolio/25.jpg" class="fancybox" data-fancybox-group="gall-1">
+                                      <img src="assets/images/portfolio/25.jpg" alt class="img img-responsive">
+                                      <div class="hover-content">
+                                          <i class="ti-plus"></i>
+                                      </div>
+                                  </a>
+                              </div>
+                          </div>
+
                       </div>
                   </div>
               </div>
