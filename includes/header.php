@@ -14,10 +14,9 @@
                             </button>
                         </div>
                     </div>
-                    <div class="col-lg-2 col-md-6 col-6">
+                    <div class="col-lg-4 col-md-6 col-6 text-center">
                         <div class="navbar-header">
-                            <!-- <a class="navbar-brand" href="index.php"><img src="assets/images/logo.png" alt=""></a> -->
-                            <a class="navbar-brand" href="index.php">LOGO</a>
+                            <a class="navbar-brand" href="index.php"><img style="width: 5rem;" src="assets/images/LogoLS.png" alt=""></a>
                         </div>
                     </div>
                     <div class="col-lg-8 col-md-1 col-1">

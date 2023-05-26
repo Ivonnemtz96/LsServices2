@@ -1001,7 +1001,7 @@
                     class="wa__stt wa__stt_online">
                     <div class="wa__popup_avatar">
                         <div class="wa__cs_img_wrap">
-                            <img style="width: 3rem;" src="assets/images/chat.jpg?=1" alt="">
+                            <img style="width: 3rem;" src="assets/images/chat.jpg?=2" alt="">
                         </div>
                     </div>
 
@@ -1027,7 +1027,7 @@
                     class="wa__stt wa__stt_online">
                     <div class="wa__popup_avatar">
                         <div class="wa__cs_img_wrap">
-                            <img style="width: 3rem;" src="assets/images/chat.jpg?=1" alt="">
+                            <img style="width: 3rem;" src="assets/images/chat.jpg?=2" alt="">
                         </div>
                     </div>
 
