@@ -7,6 +7,11 @@ include('includes/head.php');
 ?>
 
 <body class="color12">
+<?
+if (isset($_GET)) {
+  include_once("php/msg.php");
+}
+?>
     <div class="wrapper">
         <?php
         include('includes/header.php');

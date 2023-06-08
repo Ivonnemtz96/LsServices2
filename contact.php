@@ -7,6 +7,7 @@ include('includes/head.php');
 ?>
 
 <body class="color12">
+
     <div class="wrapper">
         <?php
         include('includes/header.php');

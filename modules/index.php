@@ -127,66 +127,6 @@
         </section>
         <!-- end of wpo-about-section -->
 
-        <!-- start wpo-wedding-date -->
-        <section hidden class="wpo-wedding-date section-padding">
-            <h2 class="hidden">some</h2>
-            <div class="container">
-                <div class="row">
-                    <div class="col col-xs-12">
-                        <div class="clock-grids">
-                            <div id="clock"></div>
-                        </div>
-                    </div>
-                </div>
-            </div> <!-- end container -->
-        </section>
-        <!-- end wpo-wedding-date -->
-        <!-- start couple-section -->
-        <section hidden class="couple-section section-padding" id="couple">
-            <div class="container">
-                <div class="row align-items-center">
-                    <div class="col col-xs-12">
-                        <div class="couple-area clearfix">
-                            <div class="text-grid bride">
-                                <div class="couple-img">
-                                    <img src="assets/images/couple/2.jpg" alt="">
-                                </div>
-                                <h3>Daniel Oliver</h3>
-                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                    lacus vel facilisis give you com of system. </p>
-                                <div class="social">
-                                    <ul>
-                                        <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                        <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                        <li><a href="#"><i class="ti-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="middle-couple-pic">
-                                <img src="assets/images/couple/1.jpg" alt="">
-                                <div class="frame-img"><img src="assets/images/couple/shape.png?=1" alt=""></div>
-                            </div>
-                            <div class="text-grid groom">
-                                <div class="couple-img">
-                                    <img src="assets/images/couple/3.jpg" alt="">
-                                </div>
-                                <h3>Sarah Margrate</h3>
-                                <p>Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan
-                                    lacus vel facilisis give you com of system. </p>
-                                <div class="social">
-                                    <ul>
-                                        <li><a href="#"><i class="ti-facebook"></i></a></li>
-                                        <li><a href="#"><i class="ti-twitter-alt"></i></a></li>
-                                        <li><a href="#"><i class="ti-instagram"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> <!-- end container -->
-        </section>
-        <!-- end couple-section -->
         <!-- start wpo-video-section -->
         <section hidden class="wpo-video-section-s2">
             <h2 class="hidden">LS Services</h2>
@@ -563,9 +503,9 @@
                                 <div class="round-ball"></div>
                             </div>
                         </div>
-                        <form method="post" class="contact-validation-active" id="contact-form-main">
+                        <form method="POST" action="php/contact_index.php">
                             <div>
-                                <input type="text" class="form-control" name="name" id="name" placeholder="Name">
+                                <input type="text" class="form-control" name="nombre" id="nombre" placeholder="Name">
                             </div>
                             <div>
                                 <input type="email" class="form-control" name="email" id="email" placeholder="Email">
@@ -574,23 +514,18 @@
                                 <input type="text" class="form-control" name="tel" id="tel" placeholder="Telephone">
                             </div>
                             <div>
-                                <input type="text" class="form-control" name="subject" id="subject"
+                                <input type="text" class="form-control" name="asunto" id="asunto"
                                     placeholder="Subject">
                             </div>
                             <div>
                                 <textarea class="form-control" name="msj" id="msj"
                                     placeholder="Write your message here..."></textarea>
                             </div>
+                            <div class="col-12 col-md-5">
+                                <div class="g-recaptcha" data-sitekey="6Lf92OAfAAAAAEy9m8sf2kbU0ojkdDs5CNOnaNYS" required></div>
+                            </div>
                             <div class="submit-area">
                                 <button type="submit" class="theme-btn-s3">Send</button>
-                                <div id="c-loader">
-                                    <i class="ti-reload"></i>
-                                </div>
-                            </div>
-                            <div class="clearfix error-handling-messages">
-                                <div id="success">Thank you</div>
-                                <div id="error"> Error occurred while sending email. Please try again later.
-                                </div>
                             </div>
                         </form>
                         <div class="border-style"></div>

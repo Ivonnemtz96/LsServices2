@@ -22,4 +22,7 @@
     <link href="assets/css/jquery.fancybox.css" rel="stylesheet">
     <link href="assets/css/odometer-theme-default.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
+
+    <!-- captcha -->
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 </head>
